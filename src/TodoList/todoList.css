@@ -1,0 +1,25 @@
+.todoList {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 70%;
+
+    margin: 10vh auto;
+
+}
+
+.todoList>* {
+    margin: 10px auto 5px auto;
+    width: 90%;
+}
+
+.buttonsContainer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.buttonsContainer>* {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(237, 237, 237);
+}

@@ -1,0 +1,22 @@
+.todo {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.daily {
+    border: 2px solid Green;
+}
+
+.today {
+    border: 2px solid blue;
+}
+
+.done {
+    border: 2px solid white;
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+}
